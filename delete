@@ -1,2 +1,2 @@
-# To delete a file:
-$ git rm delete
+git rm delete
+git commit -m "remove delete"
