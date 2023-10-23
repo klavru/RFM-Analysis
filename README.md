@@ -41,6 +41,10 @@ The analysis results in the categorization of customers into various segments, e
 
 <img width="964" alt="image" src="https://github.com/klavru/RFM-Analysis/assets/128393456/4786547c-5344-4d9f-b93f-4206dcaaaef9">
 
+Link to my dashboard:
+
+https://public.tableau.com/app/profile/karolina.lavrukaityte/viz/RFMSegmentationFinal/RFMSegmentation 
+
 
 By performing RFM segmentation analysis and utilizing the insights gained, businesses can enhance their customer engagement strategies, improve marketing campaigns, and drive growth by catering to the specific needs and behaviors of each customer segment.
 
